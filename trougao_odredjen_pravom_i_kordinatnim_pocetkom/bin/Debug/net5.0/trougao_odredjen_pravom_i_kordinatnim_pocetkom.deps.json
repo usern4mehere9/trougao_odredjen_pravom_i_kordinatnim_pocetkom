@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "trougao_odredjen_pravom_i_kordinatnim_pocetkom/1.0.0": {
+        "runtime": {
+          "trougao_odredjen_pravom_i_kordinatnim_pocetkom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trougao_odredjen_pravom_i_kordinatnim_pocetkom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
